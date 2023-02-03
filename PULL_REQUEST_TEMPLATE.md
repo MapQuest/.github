@@ -30,4 +30,4 @@
 - [ ] I have added tests that prove that my feature works or my fix is effective
 - [ ] I have made any necessary changes to the documentation
 - [ ] The changes introduced can go live immediately with stakeholder approval
-- [ ] Product or Business stakeholders have performed accept testing
+- [ ] Product or Business stakeholders have performed acceptance testing
