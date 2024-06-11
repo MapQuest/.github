@@ -32,7 +32,7 @@ If necessary, please note the requirements which will be handled separately and 
 <!-- ✍️
 - [x] Please check using "x"  -->
 - [ ] The title of this PR follows the [conventional commit guidelines](https://openmail.atlassian.net/wiki/spaces/MAP/pages/2801696776/Conventional+Commits)
-- [ ] Acceptance criteria from the original issue has been satisfied
+- [ ] Acceptance criteria from the original issue has been satisfied or will be covered by multiple PRs
 - [ ] I have performed a self-review of my code and the expected functionality
 - [ ] I have added tests that prove that my feature works or my fix is effective
 - [ ] I have made any necessary changes to the documentation
