@@ -36,6 +36,7 @@ If necessary, please note the requirements which will be handled separately and 
 - [ ] I have performed a self-review of my code and the expected functionality
 - [ ] I have added tests that prove that my feature works or my fix is effective
 - [ ] I have made any necessary changes to the documentation
-### If applicable, don't merge without checking
+## UAT / Go Live / AB Test
 - [ ] The changes introduced can go live immediately with stakeholder approval
 - [ ] **Product or Business stakeholders have performed acceptance testing**
+- [ ] **The AB test associated with this PR has been stopped in [Hypothesis](https://hypothesis.aws.mapquest.com)**
