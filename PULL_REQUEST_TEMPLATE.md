@@ -1,4 +1,4 @@
-**Link to Jira ticket:** <!-- ✍️ https://openmail.atlassian.net/browse/MAP-XXXX -->
+**Jira ticket number:** <!-- ✍️ MAP-XXXX or RW-XXXX -->
 
 **Does this PR introduce a breaking change?** <!-- ✍️ Yes/No -->
 
@@ -44,5 +44,6 @@ Copilot currently lacks the ability to authenticate with JIRA
 - [ ] The changes introduced can go live immediately with stakeholder approval
 - [ ] Product or Business stakeholders have performed acceptance testing
 
-## Notes
+<!-- Notes for author
 - The title of this PR must follow the [conventional commit guidelines](https://openmail.atlassian.net/wiki/spaces/MAP/pages/2801696776/Conventional+Commits)
+-->
