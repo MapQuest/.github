@@ -11,9 +11,16 @@ Sometimes it can be useful to break up a changeset to multiple PR, and sometimes
 If necessary, please note the requirements which will be handled separately and link to any other PRs when possible.
 -->
 
+## Text of the Ticket
+
+<!-- 🤖
+Provide context to Copilot
+Copilot currently lacks the ability to authenticate with JIRA
+-->
+
 ## What is the current behavior? <!-- Remove if this a brand new feature -->
 
-<!-- ✍️  Describe the changes and provide relevant screenshots for interface changes -->
+<!-- ✍️ Describe the changes and provide relevant screenshots for interface changes -->
 
 ## What is the new behavior?
 
@@ -31,10 +38,12 @@ If necessary, please note the requirements which will be handled separately and 
 
 <!-- ✍️
 - [x] Please check using "x"  -->
-- [ ] The title of this PR follows the [conventional commit guidelines](https://openmail.atlassian.net/wiki/spaces/MAP/pages/2801696776/Conventional+Commits)
-- [ ] Acceptance criteria from the original issue has been satisfied or will be covered by multiple PRs
 - [ ] I have performed a self-review of my code and the expected functionality
 - [ ] I have added tests that prove that my feature works or my fix is effective
 - [ ] I have made any necessary changes to the documentation
 - [ ] The changes introduced can go live immediately with stakeholder approval
 - [ ] Product or Business stakeholders have performed acceptance testing
+
+<!-- Notes for author
+- The title of this PR must follow the [conventional commit guidelines](https://openmail.atlassian.net/wiki/spaces/MAP/pages/2801696776/Conventional+Commits)
+-->
