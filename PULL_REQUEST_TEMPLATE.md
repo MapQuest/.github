@@ -13,10 +13,16 @@ If necessary, please note the requirements which will be handled separately and 
 
 ## Text of the Ticket
 
+<details><summary><!-- The title of the ticket --></summary>
+<section>
+
 <!-- 🤖
 Provide context to Copilot
 Copilot currently lacks the ability to authenticate with JIRA
 -->
+
+</section>
+</details>
 
 ## What is the current behavior? <!-- Remove if this a brand new feature -->
 
